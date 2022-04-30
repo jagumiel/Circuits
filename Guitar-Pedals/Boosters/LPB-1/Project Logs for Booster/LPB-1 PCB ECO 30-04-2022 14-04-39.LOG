@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=C?1 NewDesignator=C?
+Change Component Designator: OldDesignator=C?2 NewDesignator=C?
+Change Component Designator: OldDesignator=J?1 NewDesignator=J?
+Change Component Designator: OldDesignator=Q?1 NewDesignator=Q?
+Change Component Designator: OldDesignator=R?1 NewDesignator=R?
+Change Component Designator: OldDesignator=R?2 NewDesignator=R?
+Change Component Designator: OldDesignator=R?3 NewDesignator=R?
+Change Component Designator: OldDesignator=R?4 NewDesignator=R?
+Change Component Designator: OldDesignator=R?5 NewDesignator=R?
+Add Net: Net with name "NetC?_2" already exists
+Added Member To Class: ClassName=LPB-1 Member=Component C? Cap
+Added Member To Class: ClassName=LPB-1 Member=Component R? Res1
+Added Member To Class: ClassName=LPB-1 Member=Component R? Res1
+Added Member To Class: ClassName=LPB-1 Member=Component R? Res1
+Added Member To Class: ClassName=LPB-1 Member=Component R? RPot
