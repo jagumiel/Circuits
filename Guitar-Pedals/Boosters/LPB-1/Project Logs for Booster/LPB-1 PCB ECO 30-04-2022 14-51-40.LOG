@@ -1,0 +1,21 @@
+Added Component: Designator=P1(250-402/350-604_WAG)
+Add component (AddParameter): Name = "Code_A"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_B"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "DATASHEETS\250-402/350-604.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_A"; Value = "WAGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_B"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package_A"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package_B"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber_A"; Value = "250-402/350-604"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber_B"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price_A"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price_B"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchased"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_A"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_B"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_A"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_B"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Member To Class: ClassName=LPB-1 Member=Component P1 2.5mm Vert.
