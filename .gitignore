@@ -45,3 +45,18 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Git Ignore File - Altium Projects
+# AllSpice
+
+# Altium thumbnail files
+**/__Previews/
+# Altium backup archives
+**/History/
+# Generated output files
+Project\ Outputs*/
+Project\ Logs*/
+Assembly\ Exports/
+*.rawProject\ Outputs*/
+# Altium metadata file
+*.PcbDoc.htm
