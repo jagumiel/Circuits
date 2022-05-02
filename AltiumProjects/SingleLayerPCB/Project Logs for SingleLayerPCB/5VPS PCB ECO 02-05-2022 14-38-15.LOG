@@ -1,0 +1,17 @@
+Added Component: Designator=J(TE_1376384-1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1376384-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1376384-1/TE%20Connectivity%20AMP%20Connectors/view-part/2371909/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1376384-1.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=J-1
+Added Pin To Net: NetName=GND Pin=J-2
+Added Pin To Net: NetName=NetC4_1 Pin=J-3
+Added Pin To Net: NetName=GND Pin=J-4
+Change Net Name : Old Net Name=NetC1_2 New Net Name=VCC
+Change Net Name : Old Net Name=NetC4_1 New Net Name=+5
+Change Net Color : Old Net Color=RGB(255, 102, 0) New Net Color=RGB(253, 131, 0)
+Added Member To Class: ClassName=5VPS Member=Component J 1376384-1

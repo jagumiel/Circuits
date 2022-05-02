@@ -1,0 +1,32 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [SingleLayerPCB.PrjPcb]
+   Generated File[5VPS_Copper_Signal_Top.gbr]
+   Generated File[5VPS_Copper_Signal_Bot.gbr]
+   Generated File[5VPS_Pads_Bot.gbr]
+   Generated File[5VPS_Pads_Top.gbr]
+   Generated File[5VPS_Legend_Bot.gbr]
+   Generated File[5VPS_Soldermask_Bot.gbr]
+   Generated File[5VPS_Paste_Bot.gbr]
+   Generated File[5VPS_Legend_Top.gbr]
+   Generated File[5VPS_Paste_Top.gbr]
+   Generated File[5VPS_Soldermask_Top.gbr]
+   Generated File[5VPS_Keep-out.gbr]
+   Generated File[5VPS_Mechanical_13.gbr]
+   Generated File[5VPS_Mechanical_20.gbr]
+   Generated File[5VPS_Mechanical_1.gbr]
+   Generated File[5VPS_Mechanical_15.gbr]
+   Generated File[5VPS_Profile.gbr]
+   Generated File[5VPS_NPTH_Drill.gbr]
+   Generated File[5VPS_PTH_Drill.gbr]
+   Generated File[5VPS_Drawing_1.gbr]
+   Generated File[5VPS_Drillmap_1.gbr]
+   Generated File[5VPS.RUL]
+   Generated File[5VPS.EXTREP]
+   Generated File[5VPS.REP]
+
+
+Files Generated   : 23
+Documents Printed : 0
+
+Finished Output Generation At 16:17:59 On 02/05/2022
