@@ -14,6 +14,6 @@ This was my first Altium Project. It is just a 2 pin connector with a resistor a
 
 ### Some pictures of how the circuit schematics and PCB layout looks like:
 
-![Alt text](images/Schematic.PNG?raw=true "Circuit Schematic")
+![Alt text](images/schematic-Image.PNG?raw=true "Circuit Schematic")
 ![Alt text](images/2D-PCB-Image.PNG?raw=true "2D PCB Layout")
 ![Alt text](images/3D-PCB-Image.PNG?raw=true "3D PCB Layout")
